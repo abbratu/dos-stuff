@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Doom II - Hell on Earth
+Comment=Doom II
+Icon=doom-ii
+Exec=dosbox
+Terminal=false
+Categories=Game;Emulator;
+Keywords=DOS Emulator;

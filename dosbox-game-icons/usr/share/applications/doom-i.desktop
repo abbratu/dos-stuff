@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Doom I
+Comment=Doom I
+Icon=doom-i
+Exec=dosbox
+Terminal=false
+Categories=Game;Emulator;
+Keywords=DOS Emulator;

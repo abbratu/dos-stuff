@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Doom I - The Ultimate Doom
+Comment=Doom I - The Ultimate Doom
+Icon=doom-i-the-ultimate-doom
+Exec=dosbox
+Terminal=false
+Categories=Game;Emulator;
+Keywords=DOS Emulator;

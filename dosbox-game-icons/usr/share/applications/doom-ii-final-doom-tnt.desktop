@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Doom II - Final Doom - TNT Evilution
+Comment=Doom II - Final Doom - TNT Evilution
+Icon=doom-ii-final-doom
+Exec=dosbox
+Terminal=false
+Categories=Game;Emulator;
+Keywords=DOS Emulator;

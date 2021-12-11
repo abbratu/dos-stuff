@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Doom II - Final Doom - The Plutonia Experiment
+Comment=Doom II - Final Doom - The Plutonia Experiment
+Icon=doom-ii-final-doom
+Exec=dosbox
+Terminal=false
+Categories=Game;Emulator;
+Keywords=DOS Emulator;
