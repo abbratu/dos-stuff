@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Monkey Island II - Le Chuck's Revenge
+Comment=Monkey Island II - Le Chuck's Revenge
+Icon=monkey-island-ii
+Exec=dosbox
+Terminal=false
+Categories=Game;Emulator;
+Keywords=DOS Emulator;

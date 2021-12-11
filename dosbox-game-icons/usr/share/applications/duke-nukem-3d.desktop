@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Duke Nukem 3D
+Comment=Duke Nukem 3D
+Icon=Duke Nukem 3D
+Exec=dosbox
+Terminal=false
+Categories=Game;Emulator;
+Keywords=DOS Emulator;

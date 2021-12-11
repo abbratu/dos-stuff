@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Monkey Island - The Secret of Monkey Island
+Comment=Monkey Island - The Secret of Monkey Island
+Icon=monkey-island-i
+Exec=dosbox
+Terminal=false
+Categories=Game;Emulator;
+Keywords=DOS Emulator;

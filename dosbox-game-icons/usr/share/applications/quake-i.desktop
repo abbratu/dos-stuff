@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Quake
+Comment=Quake
+Icon=quake-i
+Exec=dosbox
+Terminal=false
+Categories=Game;Emulator;
+Keywords=DOS Emulator;
