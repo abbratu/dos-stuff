@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Heretic
+Comment=Heretic
+Icon=heretic
+Exec=dosbox
+Terminal=false
+Categories=Game;Emulator;
+Keywords=DOS Emulator;

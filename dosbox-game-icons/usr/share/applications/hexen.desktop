@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Hexen
+Comment=Hexen
+Icon=hexen
+Exec=dosbox
+Terminal=false
+Categories=Game;Emulator;
+Keywords=DOS Emulator;
